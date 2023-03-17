@@ -1,5 +1,5 @@
 ---
-title: "Startup Acceleration"
+title: "Kanban and Scrum"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
